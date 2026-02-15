@@ -1,5 +1,5 @@
 # 💫 About Me:
-Enthusistic Web-Developer<br>Currently Working on  my Programming Skills<br>Looking For New Opportunities<br>Open for Collaborations
+Web-Developer<br>Currently Working on  my Programming Skills<br>Looking For New Opportunities<br>Open for Collaborations
 
 
 ## 🌐 Socials:
