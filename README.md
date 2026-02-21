@@ -3,8 +3,7 @@ I'm Savinav, CS student with interest in ML<br><br>Open for Collaborations
 <br>
 <br>
 -------------------
-<a href="https://twitter.com/Vec_Arc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vec_Arc" height="30" width="40" /></a>
-
+<a href="www.linkedin.com/in/savinav-sharma-571501252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="SavinavSharma" height="30" width="40" /></a>
 <div align="center">
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTI4MjVmYmh5eGp6cHZhZjlya2NvMHZocnJtaXBuOXhoeW8zamp5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
