@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Savinav, CS student with interest in ML<br><br>Open for Collaborations
+I'm Savinav, a CS student, Interested in ML<br><br>Open for Collaborations
 <br>
 <br>
 -------------------
